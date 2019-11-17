@@ -21,7 +21,7 @@ Here we learn all things git. Feel free to send me Pull Requests just to discove
 "Can you squash your commits for us"
 </blockquote>
 
-and you're all like...
+d;kf;;dskf;lsdk;f;sd;fk;dk...
 
 <blockquote>
 "How the hell do I do that?"
